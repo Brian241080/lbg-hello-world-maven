@@ -13,11 +13,11 @@ public class App
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
         System.out.println(sayHelloToSomeone("Zena"));
-<<<<<<< HEAD
+
 	System.out.println(sayHelloToSomeone("Brian"));
-=======
-	system.out.println(sayHelloToSomeone("Brian"));
->>>>>>> 9bee8b07a81e0a42f4829a72d3200d9772e56a93
+
+	
+
         System.out.println(sayGoodbye());
     }
 
